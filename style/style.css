@@ -14,7 +14,8 @@
 }
 
 body{
-    background-image: url(/images/bg-mobile.svg);
+    background-image: url(../images/bg-mobile.svg);
+    background-color: var(--neutral4);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Raleway', sans-serif;
@@ -144,7 +145,7 @@ body{
     body{
         background-color: var(--neutral4);
         padding-top: 290px;
-        background-image: url(/images/bg-desktop.svg);
+        background-image: url(../images/bg-desktop.svg);
         background-position: bottom;
         background-size: auto;
         height: 800px;
